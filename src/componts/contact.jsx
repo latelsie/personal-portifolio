@@ -23,7 +23,7 @@ const Contact = () => {
                     {CONTACT.email}
                 </a>
             </div>
-            {/* Social Media Links */}
+           
             <div className="flex justify-center gap-6 mt-6">
                 <a 
                     href="https://github.com/latelsie" 
@@ -44,7 +44,7 @@ const Contact = () => {
                     <FaLinkedin size={30} />
                 </a>
                 <a 
-                    href="https://x.com/home" // Update with your Twitter profile link
+                    href="https://x.com/home" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="text-stone-300 hover:text-gray-800 transition duration-200"
