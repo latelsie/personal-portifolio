@@ -23,7 +23,7 @@ const Hero =()=>{
                 </p>
                 <a href='https://drive.google.com/file/d/1NoZQrcvhg5pjZItvqejV-aw7WEq12uko/view?usp=sharing'
                 target='_blank' rel='noopener noreferrer' download className='bg-white rounded-full p-4 text-sm text-slate-600 mb-10'>
-                            Download Resume
+                           Download Resume 
                 </a>
             </div>
         </div>
